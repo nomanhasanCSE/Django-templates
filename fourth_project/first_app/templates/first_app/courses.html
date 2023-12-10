@@ -1,0 +1,6 @@
+{% load first_tags %}
+
+{% for course in courses %}
+<p> {{ course.id}}, {{ course.course}}, {{ course.teacher}}</p>
+
+{% endfor %}

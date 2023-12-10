@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+room_1/
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Logs
+*.log
+
+# Secret key
+*.key
+
+# Configuration files
+*.ini
+
+# Local development settings
+local_settings.py
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+
+# Python environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Python Debugger
+*.pydevproject
+*.pydevworkspace
+
+# Node.js
+node_modules/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Backup files
+*~
+*.bak
+*.swp
+*.backup
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# PyInstaller
+dist/
+build/
+*.spec
